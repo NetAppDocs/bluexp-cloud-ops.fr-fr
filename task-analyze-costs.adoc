@@ -21,7 +21,7 @@ Une fois votre compte connecté, consultez une analyse des coûts des ressources
 == Afficher une analyse des coûts
 
 .Étapes
-. Cliquez sur *Compute*.
+. Cliquez sur *Extensions > Cloud OPS*.
 . Consultez l'analyse des coûts pour obtenir des informations sur les coûts de calcul.
 
 

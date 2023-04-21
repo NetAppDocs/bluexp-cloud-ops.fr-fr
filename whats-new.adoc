@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
-summary: 'Découvrez les nouveautés du service de calcul dans BlueXP (anciennement Cloud Manager).' 
+summary: Découvrez les nouveautés des opérations cloud BlueXP. 
 ---
 = Quoi de neuf
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 'Découvrez les nouveautés du service de calcul dans BlueXP (anciennem
 
 
 [role="lead"]
-Découvrez les nouveautés du service de calcul dans BlueXP (anciennement Cloud Manager).
+Découvrez les nouveautés des opérations cloud BlueXP.
 
 
 
