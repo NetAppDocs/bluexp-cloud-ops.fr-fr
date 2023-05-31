@@ -38,6 +38,6 @@ Une nouvelle section *Storage Operations* dans Spot vous permet de naviguer dire
 
 Valorisation https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer"^], Cloud Manager peut désormais fournir une analyse des coûts généraux de vos dépenses de calcul dans le cloud et identifier les économies potentielles. Ces informations sont disponibles dans le service *Compute* de Cloud Manager.
 
-https://docs.netapp.com/us-en/cloud-manager-compute/concept-compute.html["En savoir plus sur le service de calcul"].
+https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["En savoir plus sur le service de calcul"].
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/media/screenshot_compute_dashboard.gif["Capture d'écran affichant la page d'analyse des coûts dans Cloud Manager"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["Capture d'écran affichant la page d'analyse des coûts dans Cloud Manager"]
