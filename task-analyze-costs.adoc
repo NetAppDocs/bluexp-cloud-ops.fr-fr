@@ -45,7 +45,7 @@ Vous pouvez prendre les mesures suivantes pour optimiser davantage vos comptes :
 Principaux comptes AWS:: Il s'agit d'un graphique à barres indiquant les dix principaux comptes en fonction de leur coût. Le graphique est basé sur les 30 derniers jours de l'activité de dépense.
 
 
-https://help.spot.io/cloud-analyzer/cost-analysis/["Découvrez la page d'analyse des coûts disponible dans le Cloud Analyzer de Spot"^].
+https://docs.spot.io/cloud-analyzer/cost-analysis["Découvrez la page d'analyse des coûts disponible dans le Cloud Analyzer de Spot"^].
 
 
 
@@ -60,5 +60,5 @@ Voici un exemple de ce que vous verrez dans Cloud Analyzer :
 image:screenshot_compute_dashboard_spot.gif["Capture d'écran affichant la page d'analyse des coûts dans Cloud Analyzer de Spot."]
 
 * https://spot.io/products/cloud-analyzer/["Consultez la page produit de Cloud Analyzer pour en savoir plus sur ses fonctionnalités"^]
-* https://help.spot.io/cloud-analyzer/["Consultez la documentation de Spot pour obtenir de l'aide sur Cloud Analyzer"^]
+* https://docs.spot.io/cloud-analyzer/["Consultez la documentation de Spot pour obtenir de l'aide sur Cloud Analyzer"^]
 

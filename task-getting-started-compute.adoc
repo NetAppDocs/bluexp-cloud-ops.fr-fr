@@ -26,7 +26,7 @@ Connectez Cloud Analyzer à votre compte payeur AWS pour que vous puissiez comme
 .. Exécuter le modèle CloudFormation.
 .. Coller le point RoleARN.
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["Afficher plus de détails sur ces étapes"^].
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["Afficher plus de détails sur ces étapes"^].
 
 +
 image:screenshot_compute_add_account.gif["Capture d'écran affichant chaque champ disponible sur la page de connexion."]
