@@ -14,7 +14,9 @@ sidebar:
   - title: Documentation des opérations cloud BlueXP
     url: "/index.html"
   - title: Notes de mise à jour
-    url: "/whats-new.html"
+    entries:
+    - title: Quoi de neuf
+      url: "/whats-new.html"
   - title: Commencez
     entries:
     - title: Découvrez les opérations cloud BlueXP
